@@ -8,28 +8,11 @@
 }
 
 
-h1 {
-  margin: 0;
-}
+
 img {
   display: block;
   width: 100%;
   object-fit: cover;
 }
 
-.container {
-  padding: 0 15px;
-  margin: 0 auto;
-  max-width: 1200px;
-}
 
-.header {
-  padding: 20px 0;
-  text-align: center;
-}
-
-.main-title {
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  font-size: 48px;
-  color: #740808;
-}
